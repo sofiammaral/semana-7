@@ -1,0 +1,34 @@
+def simples(cor):
+    if cor == 'azul':
+        return 'Escolheu azul'
+    else:
+        return 'Tente outra cor'
+
+def medio(cor):
+    if cor == 'azul':
+        return 'Escolheu azul'
+    else:
+        return 'Tente outra cor'
+
+def completo(cor):
+    if cor == 'azul':
+        return 'Escolheu azul'
+    elif cor == 'marrom':
+        return 'Não tem salvação'
+    else:
+        return 'Tente outra cor'
+
+# Exemplo de uso:
+cor = 'azul'
+print(simples(cor))
+print(medio(cor))
+print(completo(cor)
+
+ 
+*
+***
+*****
+*******
+
+
+
